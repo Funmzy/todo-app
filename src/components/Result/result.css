@@ -1,0 +1,18 @@
+
+.result {
+    display: flex;
+    justify-content: space-between;
+    margin-top: auto;
+}
+
+.result-track {
+    background-color: green;
+    color: #000;
+    padding: 10px 20px;
+    flex: 0.3;
+}
+
+.remove-button{
+    flex: 0.3;
+    padding: 10px 20px;
+}

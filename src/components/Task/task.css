@@ -1,0 +1,23 @@
+.task {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px;
+    border-bottom: 2px solid #fafafa;
+}
+
+.task-left {
+    display: flex;
+    align-items: center;
+}
+
+.task-input {
+    margin-right: 20px;
+}
+
+.icon-edit {
+    margin-right: 20px;
+    cursor: pointer;
+}
+.icon-delete {
+    cursor: pointer;
+}
